@@ -47,13 +47,13 @@ This project helps businesses identify trends, evaluate goals, and optimize prod
 ### 📷 Dashboard Previews
 
 #### 🔹 Main Overview
-![Main Dashboard](images/sales-overview-dashboard.png)
+![Main Dashboard](sales-overview-dashboard.png)
 
 #### 🔹 Product Category Breakdown
-![Product Category](images/product-category-chart.png)
+![Product Category](product-category-chart.png)
 
 #### 🔹 Customer Distribution by Region
-![Customer Region](images/customer-region-map.png)
+![Customer Region](customer-region-map.png)
 
 
 ---
@@ -72,6 +72,5 @@ This project helps businesses identify trends, evaluate goals, and optimize prod
 **Arge Ganga Prasad**  
 Aspiring Data Analyst | SQL & Power BI Dashboard Enthusiast  
 
-📫 [LinkedIn](https://www.linkedin.com/in/arge-gangaprasad/)  
-💻 [GitHub](https://github.com/gangaprasadarge)
+📫 [LinkedIn](https://www.linkedin.com/in/arge-gangaprasad/)  | 💻 [GitHub](https://github.com/gangaprasadarge)
 
