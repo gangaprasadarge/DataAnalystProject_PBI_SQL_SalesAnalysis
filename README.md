@@ -31,8 +31,6 @@ This project helps businesses identify trends, evaluate goals, and optimize prod
 4. **Visualization:**  
    Charts such as line graphs, pie charts, bar charts, and KPI cards were used for intuitive and interactive analysis.
 
-5. **Automation:**  
-   Scheduled refreshes were enabled in Power BI Service to keep the dashboard updated with real-time data.
 
 ---
 
@@ -46,9 +44,17 @@ This project helps businesses identify trends, evaluate goals, and optimize prod
 
 ---
 
-## 📷 Dashboard Preview
+### 📷 Dashboard Previews
 
-![Sales Dashboard](images/sales-overview-dashboard.png)
+#### 🔹 Main Overview
+![Main Dashboard](images/sales-overview-dashboard.png)
+
+#### 🔹 Product Category Breakdown
+![Product Category](images/product-category-chart.png)
+
+#### 🔹 Customer Distribution by Region
+![Customer Region](images/customer-region-map.png)
+
 
 ---
 
@@ -61,5 +67,11 @@ This project helps businesses identify trends, evaluate goals, and optimize prod
 
 ---
 
-## 📁 Project Structure
+## 👤 Author
+
+**Arge Ganga Prasad**  
+Aspiring Data Analyst | SQL & Power BI Dashboard Enthusiast  
+
+📫 [LinkedIn](https://www.linkedin.com/in/arge-gangaprasad/)  
+💻 [GitHub](https://github.com/gangaprasadarge)
 
